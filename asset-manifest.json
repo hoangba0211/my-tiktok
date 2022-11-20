@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-tiktok/static/css/main.d1b83635.css",
+    "main.js": "/my-tiktok/static/js/main.c0fb810c.js",
+    "static/js/787.2628ea00.chunk.js": "/my-tiktok/static/js/787.2628ea00.chunk.js",
+    "static/media/sofiapro-bold.woff": "/my-tiktok/static/media/sofiapro-bold.086ed00f3060992f2938.woff",
+    "static/media/Proxima-Nova-Bold.woff": "/my-tiktok/static/media/Proxima-Nova-Bold.6cd7dcaa6293ecf61e80.woff",
+    "static/media/Proxima-Nova-Regular.woff2": "/my-tiktok/static/media/Proxima-Nova-Regular.6c83037ae28747e6d774.woff2",
+    "static/media/ProximaNova-Semibold.woff2": "/my-tiktok/static/media/ProximaNova-Semibold.c5632e80f6e35c93156f.woff2",
+    "static/media/logo.svg": "/my-tiktok/static/media/logo.87ef64661abbb6a9094b4fef5253baa9.svg",
+    "static/media/userModalIcon.svg": "/my-tiktok/static/media/userModalIcon.ae73b64edeb0d72b9a46188ea4d87805.svg",
+    "static/media/linechatModalIcon.svg": "/my-tiktok/static/media/linechatModalIcon.69f131107ba5ddacaba36fc174bad7ac.svg",
+    "static/media/instagramModalIcon.svg": "/my-tiktok/static/media/instagramModalIcon.20e2743eb9cd6c82d12b4ab672e116da.svg",
+    "static/media/kakaotalkModalIcon.svg": "/my-tiktok/static/media/kakaotalkModalIcon.61ecd396277d59a614051bf538b052f8.svg",
+    "static/media/googleModalIcon.svg": "/my-tiktok/static/media/googleModalIcon.e4fd75a2e25351ae77ea43060e70e038.svg",
+    "static/media/eye-off.svg": "/my-tiktok/static/media/eye-off.9f32555902f1abcc3c471f0eca4d9f62.svg",
+    "index.html": "/my-tiktok/index.html",
+    "static/media/appleModalIcon.svg": "/my-tiktok/static/media/appleModalIcon.68ecf311f801f53b044e84fcaaf64bf3.svg",
+    "static/media/facebookModalIcon.svg": "/my-tiktok/static/media/facebookModalIcon.0674d3969c4d7ae9e1077f46742f4ddc.svg",
+    "static/media/qrcode.svg": "/my-tiktok/static/media/qrcode.2fdbb2f3831105bdc3030d4859f43c31.svg",
+    "static/media/twitterModalIcon.svg": "/my-tiktok/static/media/twitterModalIcon.b65072b50fa27320c7147c8ee8207742.svg",
+    "static/media/eye.svg": "/my-tiktok/static/media/eye.17d9ac39c416dbcfbbaa61a0e2ff22fc.svg",
+    "static/media/link.svg": "/my-tiktok/static/media/link.1b33e50404b96dd99f1faa9361bd8503.svg",
+    "static/media/menu.svg": "/my-tiktok/static/media/menu.d4e114039fb457c37a822c420e375b4b.svg",
+    "static/media/share.svg": "/my-tiktok/static/media/share.f987a699bfd2fffd508f595d911a20c5.svg",
+    "static/media/unfollow.svg": "/my-tiktok/static/media/unfollow.5a4d9e2104f6520b273efd5ac26081a0.svg",
+    "main.d1b83635.css.map": "/my-tiktok/static/css/main.d1b83635.css.map",
+    "main.c0fb810c.js.map": "/my-tiktok/static/js/main.c0fb810c.js.map",
+    "787.2628ea00.chunk.js.map": "/my-tiktok/static/js/787.2628ea00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b83635.css",
+    "static/js/main.c0fb810c.js"
+  ]
+}
