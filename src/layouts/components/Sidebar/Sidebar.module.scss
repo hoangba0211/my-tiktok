@@ -1,0 +1,69 @@
+.wrapper {
+    position: relative;
+    width: var(--sidebar-width);
+    max-width: var(--sidebar-width);
+    flex: 0 0 240px;
+}
+
+.scroll-sidebar {
+    overflow: hidden auto;
+    overscroll-behavior-y: contain;
+    perspective: 1px;
+    transform-style: preserve-3d;
+    perspective-origin: right top;
+    top: 61px;
+    bottom: 0px;
+    width: var(--sidebar-width);
+    background: rgb(255, 255, 255);
+    position: fixed;
+    z-index: 98;
+    padding-right: 8px;
+}
+
+.sidebar {
+    flex-shrink: 0;
+    padding: 20px 0 26px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    min-height: 100%;
+}
+
+.frame {
+    position: relative;
+    padding: 20px 8px 24px 8px;
+    margin: 0;
+
+    p {
+        color: rgba(22, 24, 35, 0.5);
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .login-btn {
+        width: 100%;
+        height: 48px;
+        margin-top: 20px;
+    }
+
+    &::before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 0.1px;
+        background-color: rgba(22, 24, 35, 0.1);
+        top: 0;
+    }
+}
+.scroll {
+    position: absolute;
+    padding: 0 4px;
+    top: 0;
+    transform-origin: right top;
+    -webkit-transition: opacity 0.5s;
+    transition: opacity 0.5s;
+    opacity: 0;
+    right: 0;
+    transform-origin: right top;
+}

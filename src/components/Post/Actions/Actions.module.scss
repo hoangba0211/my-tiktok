@@ -1,0 +1,42 @@
+
+.video-action {
+    display: flex;
+    flex-direction: column;
+}
+
+.action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: none;
+    box-shadow: none;
+
+    &:not(:first-child) {
+        margin-top: 5px;
+    }
+    .action-btn {
+        min-width: 48px;
+        height: 48px;
+        border-radius: 50% !important;
+        background-color: rgba(22, 24, 35, 0.06);
+        border: none;
+        margin-top: 8px;
+        margin-bottom: 6px;
+
+        .icon {
+            font-size: 1.7rem;
+        }
+
+        .relax {
+            color: var(--primary);
+        }
+    }
+
+    .action-count {
+        color: rgba(22, 24, 35, 0.75);
+        font-size: 13px;
+        line-height: 17px;
+        text-align: center;
+        user-select: none;
+    }
+}
